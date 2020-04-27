@@ -1,0 +1,2 @@
+rootProject.name='trylab2'
+include ':app'
